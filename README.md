@@ -54,6 +54,8 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 2 : ᴠɪᴀ ᴇᴅɪᴛɪɴɢ ʀᴇᴘᴏ ɴᴀᴍᴇ ᴀɴᴅ ʟɪɴᴋ
 
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/gokulkannant/gklclone
+
 [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://telegra.ph/Temporary-Heroku-Deployment-Method-for-MSGuite-CloneBot-11-23)
 
 
